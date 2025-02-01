@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10cbe62f63781a8479a36018985dbb89, type: 3}
+  m_Name: MotiveBlock 14
+  m_EditorClassIdentifier: 
+  _id: 26
+  _price: 1
+  _text: 
+  _spectator: {fileID: 11400000, guid: a3cd2f200d65d2649b3fffcaeab609ee, type: 2}
+  _motive: {fileID: 11400000, guid: 68e5e6627064b634ebaab981760eb0e8, type: 2}

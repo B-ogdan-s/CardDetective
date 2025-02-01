@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f55af379838ecd4691132c7a740e580, type: 3}
+  m_Name: ConfirmationMotive 2
+  m_EditorClassIdentifier: 
+  _id: 68
+  _price: 2
+  _suspect: {fileID: 11400000, guid: 17749cb4ea66b114384d62c64d86d698, type: 2}
+  _room: {fileID: 11400000, guid: 2c1360591354d8d4199f1a8eb765a89a, type: 2}
+  _motiveID: 0

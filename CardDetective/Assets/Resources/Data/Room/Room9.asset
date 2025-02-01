@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4daa490959472794a9277d66362bafac, type: 3}
+  m_Name: Room9
+  m_EditorClassIdentifier: 
+  _name: "\u0421\u0430\u0440\u0430\u0439"
+  _isStartedRoom: 0
+  _rooms:
+  - {fileID: 11400000, guid: 47706be4c41ef0d4ca5161c62f6ef132, type: 2}
+  - {fileID: 11400000, guid: 51948be3b695d964395dfa42110b4bfa, type: 2}
+  - {fileID: 11400000, guid: ba6355f6d437d4d409c62e47932a609b, type: 2}
+  _weapons:
+  - {fileID: 11400000, guid: 9044a6fc056ec784b91ffee08a07573c, type: 2}
+  - {fileID: 11400000, guid: ac50267589088f84ca1fb43f91d6710c, type: 2}
+  - {fileID: 11400000, guid: ad87fb4fa4ac2d341b95178c278dd8ea, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6783d83f7f0f93d41a74d7b1aa83525d, type: 3}
+  m_Name: WeaponBlock 7
+  m_EditorClassIdentifier: 
+  _id: 216
+  _price: 1
+  _text: 
+  _room: {fileID: 11400000, guid: d07723c6d17039f479117c0a897e3687, type: 2}
+  _weapon: {fileID: 11400000, guid: 6153eaca4cb1e9a4ea79119e4fdeea67, type: 2}

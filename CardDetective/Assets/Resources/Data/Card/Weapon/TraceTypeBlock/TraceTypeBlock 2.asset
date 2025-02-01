@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab29ed45a2e802f4eb154cb1d41e32ae, type: 3}
+  m_Name: TraceTypeBlock 2
+  m_EditorClassIdentifier: 
+  _id: 235
+  _price: 3
+  _text: 
+  _roomData: {fileID: 11400000, guid: ba6355f6d437d4d409c62e47932a609b, type: 2}
+  _weapons:
+  - {fileID: 11400000, guid: eac88f2ec21ca0a459308be2115e67c5, type: 2}
+  - {fileID: 11400000, guid: 0a9f8ab071b0f4645b3f849ac74a6b3c, type: 2}
+  - {fileID: 11400000, guid: 2952cffe76cadd842bc3cf8bace53dbb, type: 2}
+  - {fileID: 11400000, guid: 0febe5a7cc1e09a48a21443baad5eaa3, type: 2}
+  _traceType: 1

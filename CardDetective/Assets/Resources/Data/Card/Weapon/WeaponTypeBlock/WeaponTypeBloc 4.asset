@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c26331c96400ad647a53d656cfda0eb2, type: 3}
+  m_Name: WeaponTypeBloc 4
+  m_EditorClassIdentifier: 
+  _id: 232
+  _price: 3
+  _text: 
+  _roomData: {fileID: 11400000, guid: ba6355f6d437d4d409c62e47932a609b, type: 2}
+  _weapons:
+  - {fileID: 11400000, guid: 85c624fb7c560264ea203e77a8e16761, type: 2}
+  - {fileID: 11400000, guid: 6bd2a933ad3dbf64aaf02445e45c4a81, type: 2}
+  - {fileID: 11400000, guid: ac50267589088f84ca1fb43f91d6710c, type: 2}
+  - {fileID: 11400000, guid: de27491b814887f4aa0809f8cd3964c3, type: 2}
+  _type: 3
